@@ -1,0 +1,6 @@
+{
+  "name": "V8 Snapshot Loader Contract Studio",
+  "description": "An interactive technical studio for exploring, verifying, and simulating the V8 Snapshot runtime loader contracts, binary formatting, and integrations tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
